@@ -3,7 +3,7 @@
 ## Introduction:
   
 <div align="justify">
-Customer Chrun is a problem faced by many industries such as the telecom industry, gaming industy, SaaS, retail, banking and the list goes on. For context, customer Churn refers to when a person stops using a company's services or products and ceases to be a customer. The survival of any business greatly depends on its ability to retain customers and keep bringing in annual recurcing revenue. When a company's retention rate is low (Churn is high) the compay losses a percent of its cashflow and the pain is felt almost instantly. This is very expensive and unsolved chrun at high rates will hinder a company's growth and my cause bankrupcy. 
+Customer Chrun is a problem faced by many industries such as the telecom industry, gaming industy, SaaS, retail, banking and the list goes on. For context, customer churn refers to when a person stops using a company's services or products and ceases to be a customer. The survival of any business greatly depends on its ability to retain customers and keep bringing in annual recurcing revenue. When a company's retention rate is low (Churn is high) the compay losses a percent of its cashflow and the pain is felt almost instantly. This is very expensive and unsolved chrun at high rates will hinder a company's growth and my cause bankrupcy. 
   
 ## Problem statment: 
   
